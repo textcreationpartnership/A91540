@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Paynims songs. I. canton.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91540</idno><idno type="EEBO-CITATION">99866145</idno>
+  <idno type="VID">118409</idno>
+  <idno type="EEBO-PROQUEST">2240930072</idno>
+  
+            <idno type="STC">Wing P914</idno>
+            <idno type="STC">Thomason E745_15</idno>
+            <idno type="STC">ESTC R207073</idno>
+            <idno type="PROQUEST">99866145</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866145e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 114:E745[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Paynims songs. I. canton.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 8 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:118409:1"/>
+            <head>THE PAYNIMS SONGS.</head>
+            <head> I. CANTON.</head>
+            <lg>
+               <l>
+                  <hi>Pan Paynims Fairies faire</hi>
+               </l>
+               <l>
+                  <hi>Lyre - Lute - Love-learned Laire</hi>
+               </l>
+               <l>
+                  <hi>Salutes the Morne doth rise</hi>
+               </l>
+               <l>
+                  <hi>In <hi>Londons</hi> Virgin-Skies</hi>
+               </l>
+               <l>
+                  <hi>Triumph to triumph sing</hi>
+               </l>
+               <l>
+                  <hi>Now comes th' Eternall Spring</hi>
+               </l>
+               <l>
+                  <hi>Hallu both Globes in Harmonie</hi>
+               </l>
+               <l>
+                  <hi>Now sings the Fixed Mercury.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>MAD <hi>Tom</hi> of <hi>England's</hi> come roars raves the world</l>
+               <l>By <hi>JOVE</hi> shall be from its Syntaxis hurld</l>
+               <l>Why what's the matter <hi>Tom</hi> Ile teare it too</l>
+               <l>And reavingly the Fatall Webb undo.</l>
+               <l>But prithee why <hi>Tom</hi> Here's a Staffe Divine</l>
+               <l>Some say 'tis <hi>Jacobs</hi> but they lye 'tis mine</l>
+               <l>I ran to Top of Muse-<hi>Parnassus</hi>-Mount</l>
+               <l>And vow'd I would the Twinklers number count</l>
+               <l>Ide measure Distances and Magnitudes too great</l>
+               <l>All Three for <hi>Hercules</hi> I gan to beat</l>
+               <l>And stamp my Braine how I might climb it up</l>
+               <l>At length I did by healths-Canary-Cup</l>
+               <l>The Gentle-Crafts boon Boy me drank and There</l>
+               <l>Eccentricall I found each Starr each Spheare</l>
+               <l>They talkt of Musick Nought but Discord I</l>
+               <l>Had heard if there Ide stayd eternally</l>
+               <pb n="2" facs="tcp:118409:2"/>
+               <l>Vow I let fly my Staff amongst the Stars</l>
+               <l>Would teach 'um better manners move in Jars</l>
+               <l>And down again I threw But by the way</l>
+               <l>Amidst the Clouds I made a little stay</l>
+               <l>Dread Heaven no wonder if the Springs be low</l>
+               <l>All Clouds are empty wandring too and fro</l>
+               <l>But ere I thither came little above</l>
+               <l>Were Cometts call'd <hi>JOVE</hi> like t' have lost his Love</l>
+               <l>I was so Fury scorch'd with blazing Tayles</l>
+               <l>Scarce ought to cure me to this day availes</l>
+               <l>My signe of Health and Happiness I took</l>
+               <l>I mean my winding <hi>Amalt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aea's</hi> Crook</l>
+               <l>I breath'd a Blast and blew them all asunder</l>
+               <l>Brave <hi>Tom</hi> the Clouds and Skies thou treadest un<g ref="char:EOLhyphen"/>der</l>
+               <l>Live heare mad <hi>Tom</hi> B'e still I heare thee roar</l>
+               <l>Live <hi>Tom</hi> I'le Queen thy madness evermore</l>
+               <l>Heark heark be still mad <hi>Tom</hi> Ay here's a Task</l>
+               <l>Is hard indeed beyond the rest my Flask</l>
+               <l>Where is't trow Come I'le prime my Pan again</l>
+               <l>And fire it flamingly against thy Train</l>
+               <l>Curst <hi>Proserpine</hi> who thus dost whimse my brain</l>
+               <l>Or else who is't I marle Kiss me dear <hi>Thome</hi>
+               </l>
+               <l>'Tis I most vengeance-throwing Majesty</l>
+               <l>Lost Villains d'yee <hi>Pandoras</hi> Box call Mome</l>
+               <l>Live sealed Treasure of conjured Sky</l>
+               <pb n="3" facs="tcp:118409:2"/>
+               <l>Mistake me not rare Soule I meane no harme</l>
+               <l>Doe pande thy Box reare silence with a charme</l>
+               <l>O now mine eyes are opened I can see</l>
+               <l>It is my Love <hi>Minerva</hi> Queened me</l>
+               <l>O rarest Rare strength of my Staffe and winde</l>
+               <l>Of my minde-Horne repose the Myriad-minde</l>
+               <l>Of friendlesse <hi>Tom</hi> No now I do remember</l>
+               <l>My Horne wants wind as minde a Liquor member</l>
+               <l>Thou Richest art the Wine my Horne doth fill</l>
+               <l>And chymists it into an Fagles Quill</l>
+               <l>Third memorative Token now must Act</l>
+               <l>His part <hi>Tom's</hi> of brave Trophies a Compact</l>
+               <l>My Feather 'mong the Birds beneath the Clouds—</l>
+               <l>Make Baby clouts alwaies most gallant strouds</l>
+               <l>They do admire and feare me both therefore</l>
+               <l>Ile nothing else set on their Misery-score</l>
+               <l>But up to some strange Stars again Ile fly</l>
+               <l>And Peacock it with feather'd Gallantry</l>
+               <l>Game nere did I meet with my match till now</l>
+               <l>Another War must try the Top saile bow</l>
+               <l>I have almost forgot my feet so long</l>
+               <l>I've stretcht in th' Aire above my tawing Thong</l>
+               <l>Come wee'l be sober This only to glad</l>
+               <l>And make them honest who say <hi>Tom</hi> is mad</l>
+               <l>How faire the Earth like one great Bower doth shew</l>
+               <l>Since <hi>April</hi>-shoure and <hi>May</hi>-beflowring Dew</l>
+               <pb n="4" facs="tcp:118409:3"/>
+               <l>Her youthful Face hath washt Ile fetch a Range</l>
+               <l>And rove it with a search But here O strange</l>
+               <l>In mighty Lines the World's begirt with change</l>
+               <l>The Earth's-stand-stillers clearly now are lost</l>
+               <l>Who doth not rowle it topsie-turvy-tost</l>
+               <l>It turnes so fast and that so strangly too.</l>
+               <l>Tis hard fit one to tread upon't a shooe</l>
+               <l>Much lesse its selfe to walk your minde unto</l>
+               <l>If Limner can in colours Darknesse shade</l>
+               <l>Or Merchant in the Doctors new world trade</l>
+               <l>If Needle man can suit the Moon with Breeches</l>
+               <l>Or <hi>Padua</hi> make Physitians of Leeches</l>
+               <l>Then I will certainly tell how things be</l>
+               <l>In Porpus-earth while you may go and see</l>
+               <l>Dear how I love it How the Fates be kinde</l>
+               <l>To make the versall world of just <hi>Toms</hi> minde</l>
+               <l>I know no better way then Saylers Vize</l>
+               <l>Out at the Ocean rows'd with basting Skies</l>
+               <l>Winde-veez my Boat be sure I look to water</l>
+               <l>And when the Scold hath done Ile tell the matter</l>
+               <l>Thanks to Thee <hi>Englands Neptune</hi> calm'st the Seas</l>
+               <l>Thanks to Thee <hi>Englands Mars</hi> mak'st Fields to cease</l>
+               <l>From streaming Milk so crimson red to white</l>
+               <l>From lugging Thunder to the whistle-delight</l>
+               <l>Now I must presently go to't For all</l>
+               <l>Foule weather's shift and friend to freind doth call</l>
+               <pb n="5" facs="tcp:118409:3"/>
+               <l>As times come right so I become a Man</l>
+               <l>Of a right minde And list ye who Tis <hi>Pan</hi>
+               </l>
+               <l>Take Horne and Feather who wil But if none please</l>
+               <l>To give themselves a little Pannick ease</l>
+               <l>Ile keep them somewhere till I finde whose wit</l>
+               <l>They may seem best comport and Cucco-fit</l>
+               <l>And now repentance comes with minde Oh me</l>
+               <l>That I at very first in Print should be</l>
+               <l>Such an Huge what ye will And that</l>
+               <l>I should fright people with a frantick Chat</l>
+               <l>Of pulling down the Poles breaking their Axes</l>
+               <l>Undoing Fate it selfe with worlds Syntaxis</l>
+               <l>Thwacking the Starrs thumping the Clouds away</l>
+               <l>They might no longer in Horizon stay</l>
+               <l>In truth I think do what I can for life</l>
+               <l>I am already too much Ball'd for strife</l>
+               <l>The worst I fear is 'tother extream So run</l>
+               <l>Folk of my length while they <hi>Charibdis</hi> shun</l>
+               <l>Rather then so tis sure I would returne</l>
+               <l>And in <hi>Toms</hi> old Heroick fires new burn</l>
+               <l>Methink th' affecting to be silly sheep</l>
+               <l>Doth oddly Metamorphize men to creep</l>
+               <l>Int' holes as 'twere And aiming to be wise</l>
+               <l>Before the time of wit Naturalize</l>
+               <l>Themselves to Fooles and ill-bestowing time</l>
+               <l>Make House fir'd Peals before they know to chime</l>
+               <pb n="6" facs="tcp:118409:4"/>
+               <l>I am a Philo-musick man and yet</l>
+               <l>How vext have been mine eares with Clapper-fret</l>
+               <l>Well this most deeply now at last revolved</l>
+               <l>I do ingage to be Center-resolved</l>
+               <l>Not yet to part with Horn nor Plume for why</l>
+               <l>They may perchance me second-boontify</l>
+               <l>Mean while I make a Vow to noat my Muse</l>
+               <l>Live Jovially retir'd Pastime't with News</l>
+               <l>All news is but a Sport to me I feed</l>
+               <l>On life-full love when Milky Lillies bleed</l>
+               <l>I will redeem my silent hours with HER</l>
+               <l>Who is my heavenly MISTRIS Thunderer</l>
+               <l>The Stage is but a poor disguise nought there</l>
+               <l>Is really, Things only do appear</l>
+               <l>May they be Publick who premeditate</l>
+               <l>To press into a Mill-stone-patience-Gate</l>
+               <l>Crowns at my feet I'le toss they are but play</l>
+               <l>Such mighty Trifles none of mine Array</l>
+               <l>But that which doth as much out-shine their glory</l>
+               <l>As <hi>Plato's</hi> height Divine <hi>Tom Coriats</hi> Story</l>
+               <l>What Misty Animalls be men so low to pore</l>
+               <l>On things Ten thousand miles this side the door</l>
+               <l>That leads into the restfull life unknown</l>
+               <l>Unsought a Virgin lost to all her own.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <pb n="7" facs="tcp:118409:4"/>Most silver Dian nere art old</hi>
+               </l>
+               <l>
+                  <hi>MISTRIS of mine Adventures bold</hi>
+               </l>
+               <l>
+                  <hi>Tis at thy most resplendent Shrine</hi>
+               </l>
+               <l>
+                  <hi>I prostrate both my Selfe and mine</hi>
+               </l>
+               <l>
+                  <hi>Next under thee the rurall Pan</hi>
+               </l>
+               <l>
+                  <hi>To Virgins-Metro-politan</hi>
+               </l>
+               <l>
+                  <hi>Sends kissing these his Maiden-Rowles</hi>
+               </l>
+               <l>
+                  <hi>His Virgin-Muse of Virgins Trowles</hi>
+               </l>
+               <l>
+                  <hi>Yee living Graves of love Divine</hi>
+               </l>
+               <l>
+                  <hi>Have me Intoomh'd before your Eyne</hi>
+               </l>
+               <l>
+                  <hi>Ere kenn'd me yours nor shall you know</hi>
+               </l>
+               <l>
+                  <hi>Where these inspired Streams do flow</hi>
+               </l>
+               <l>
+                  <hi>Tall I have often shot my Bow.</hi>
+               </l>
+            </lg>
+            <trailer>The end of the first Canton.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
